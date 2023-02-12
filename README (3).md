@@ -15,5 +15,14 @@ This can also be used to keep score of diffrent sports such as badminton or hock
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
+
+![Screenshot (23)](https://user-images.githubusercontent.com/89440646/218314925-a2121689-1631-4cae-b7cd-41eb75919e48.png)
+
+
+
+
+
+
+
+![Screenshot (24)](https://user-images.githubusercontent.com/89440646/218314917-24e8c174-e567-489e-aa54-a1b3a09df015.png)
